@@ -948,7 +948,7 @@
     "location": "高松市総合体育館",
     "homeTeam": "np-mallets",
     "awayTeam": "kyusyu",
-    "homeScore": 3,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
@@ -957,7 +957,7 @@
     "homeTeam": "shizuoka",
     "awayTeam": "kanazawa",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 3
   },
   {
     "start": "202602071500",
@@ -965,7 +965,7 @@
     "homeTeam": "kyoto",
     "awayTeam": "top-nagoya",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 3
   },
   {
     "start": "202602081300",
