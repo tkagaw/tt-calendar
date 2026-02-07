@@ -947,19 +947,25 @@
     "start": "202602071400",
     "location": "高松市総合体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "start": "202602071500",
     "location": "沼津市民文化センター",
     "homeTeam": "shizuoka",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202602071500",
     "location": "山科地域体育館（京都市）",
     "homeTeam": "kyoto",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202602081300",
