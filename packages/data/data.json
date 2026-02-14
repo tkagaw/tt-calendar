@@ -1005,13 +1005,15 @@
     "homeTeam": "tt-saitama",
     "awayTeam": "kanazawa",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 3
   },
   {
     "start": "202602141800",
     "location": "飯塚市総合体育館",
     "homeTeam": "kyusyu",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202602151200",
