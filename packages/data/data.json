@@ -996,14 +996,16 @@
     "location": "飯塚市総合体育館",
     "homeTeam": "ryukyu",
     "awayTeam": "shizuoka",
-    "homeScore": 0,
-    "awayScore": 1
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202602141400",
     "location": "毎日興業アリーナ久喜",
     "homeTeam": "tt-saitama",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202602141800",
