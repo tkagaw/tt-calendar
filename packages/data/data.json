@@ -995,7 +995,9 @@
     "start": "202602141300",
     "location": "飯塚市総合体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202602141400",
