@@ -1029,13 +1029,15 @@
     "homeTeam": "tt-saitama",
     "awayTeam": "km-tokyo",
     "homeScore": 0,
-    "awayScore": 3
+    "awayScore": 4
   },
   {
     "start": "202602151700",
     "location": "飯塚市総合体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202602211300",
