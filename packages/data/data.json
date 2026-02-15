@@ -1020,14 +1020,16 @@
     "location": "飯塚市総合体育館",
     "homeTeam": "kyusyu",
     "awayTeam": "ka-kanagawa",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 2
   },
   {
     "start": "202602151400",
     "location": "毎日興業アリーナ久喜",
     "homeTeam": "tt-saitama",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 0,
+    "awayScore": 3
   },
   {
     "start": "202602151700",
