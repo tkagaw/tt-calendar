@@ -1019,7 +1019,9 @@
     "start": "202602151200",
     "location": "飯塚市総合体育館",
     "homeTeam": "kyusyu",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202602151400",
