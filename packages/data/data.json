@@ -1044,14 +1044,16 @@
     "location": "倉敷福田公園",
     "homeTeam": "okayama",
     "awayTeam": "shizuoka",
-    "homeScore": 1,
-    "awayScore": 0
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "start": "202602211500",
     "location": "春日井市総合体育館",
     "homeTeam": "top-nagoya",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202602221300",
