@@ -30,10 +30,10 @@ jobs:
           git config --local user.email ${EMAIL_ADDRESS}
           git config --local user.name ${GIT_USER_NAME}
       - id: diff
-        run: echo "::set-output name=changed::$(git diff --name-only origin/main --relative packages/data | wc -l)"
+        run: echo "changed=$(git diff --name-only HEAD --relative packages/data | wc -l)" >> $GITHUB_OUTPUT
       - if: ${{ steps.diff.outputs.changed != '0' }}
         name: git push
         run: |
           git add packages/data/data.json
-          git commit -m "Update data `date "+%Y/%m/%d"`" -a
+          git commit -m "Update data `date "+%Y/%m/%d"`"
           git push origin main
