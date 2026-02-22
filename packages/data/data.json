@@ -1061,19 +1061,23 @@
     "homeTeam": "okayama",
     "awayTeam": "km-tokyo",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 3
   },
   {
     "start": "202602221400",
     "location": "春日井市総合体育館",
     "homeTeam": "top-nagoya",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202602221500",
     "location": "北ガスアリーナ札幌46",
     "homeTeam": "red-elf",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202602231200",
