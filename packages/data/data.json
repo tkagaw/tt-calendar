@@ -1059,7 +1059,9 @@
     "start": "202602221300",
     "location": "倉敷福田公園",
     "homeTeam": "okayama",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202602221400",
