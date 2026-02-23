@@ -1083,7 +1083,9 @@
     "start": "202602231200",
     "location": "北ガスアリーナ札幌46",
     "homeTeam": "red-elf",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202602281300",
