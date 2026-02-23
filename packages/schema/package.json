@@ -1,9 +1,13 @@
 {
   "name": "@tt-calendar/schema",
   "version": "0.0.0",
-  "main": "./index.ts",
+  "main": "./index.js",
   "types": "./index.ts",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rimraf ./*.js"
+  },
   "dependencies": {
     "zod": "^3.19.1"
   }
