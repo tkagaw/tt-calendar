@@ -1,0 +1,7 @@
+.git
+.github
+node_modules
+apps/calendar/dist
+packages/data/*.js
+packages/schema/*.js
+packages/fetcher
