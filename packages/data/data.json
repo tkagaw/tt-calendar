@@ -1100,15 +1100,15 @@
     "location": "ボートレース浜名湖 サンホール",
     "homeTeam": "shizuoka",
     "awayTeam": "km-tokyo",
-    "homeScore": 0,
-    "awayScore": 2
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202602281500",
     "location": "KBSホール（京都市）",
     "homeTeam": "kyoto",
     "awayTeam": "kyusyu",
-    "homeScore": 1,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
