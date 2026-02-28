@@ -1092,20 +1092,24 @@
     "location": "小松総合体育館",
     "homeTeam": "kanazawa",
     "awayTeam": "ryukyu",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202602281400",
     "location": "ボートレース浜名湖 サンホール",
     "homeTeam": "shizuoka",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202602281500",
     "location": "KBSホール（京都市）",
     "homeTeam": "kyoto",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202603011200",
