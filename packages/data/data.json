@@ -1115,13 +1115,17 @@
     "start": "202603011200",
     "location": "KBSホール（京都市）",
     "homeTeam": "kyoto",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202603011300",
     "location": "小松総合体育館",
     "homeTeam": "kanazawa",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202603011400",
