@@ -1117,7 +1117,7 @@
     "homeTeam": "kyoto",
     "awayTeam": "ka-kanagawa",
     "homeScore": 1,
-    "awayScore": 2
+    "awayScore": 3
   },
   {
     "start": "202603011300",
@@ -1125,13 +1125,15 @@
     "homeTeam": "kanazawa",
     "awayTeam": "tt-saitama",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 2
   },
   {
     "start": "202603011400",
     "location": "ボートレース浜名湖 サンホール",
     "homeTeam": "shizuoka",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202603071200",
