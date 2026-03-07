@@ -43,3 +43,6 @@ dist/
 
 # IDE
 .idea
+# packages compiled output
+packages/schema/*.js
+packages/data/*.js
