@@ -10,19 +10,16 @@ COPY apps/calendar/package.json ./apps/calendar/
 COPY packages/data/package.json ./packages/data/
 COPY packages/schema/package.json ./packages/schema/
 
-# Install all dependencies, skipping post-install scripts to avoid
-# turbo binary installation issues in Docker build environment
-RUN yarn install --frozen-lockfile --ignore-scripts
+# Install all dependencies
+RUN yarn install --frozen-lockfile
 
 # Copy all source code
 COPY apps/calendar/ ./apps/calendar/
 COPY packages/data/ ./packages/data/
 COPY packages/schema/ ./packages/schema/
 
-# Build each workspace directly without turbo
-RUN yarn workspace @tt-calendar/schema build && \
-    yarn workspace @tt-calendar/data build && \
-    yarn workspace tt-calendar build
+# Build all workspaces
+RUN yarn build
 
 EXPOSE 8080
 
