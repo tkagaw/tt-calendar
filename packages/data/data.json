@@ -1156,14 +1156,16 @@
     "location": "浦和駒場体育館",
     "homeTeam": "tt-saitama",
     "awayTeam": "shizuoka",
-    "homeScore": 3,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
     "start": "202603071700",
     "location": "厚木荻野公園体育館",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202603081100",
