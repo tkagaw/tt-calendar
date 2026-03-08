@@ -1172,14 +1172,16 @@
     "location": "厚木荻野公園体育館",
     "homeTeam": "km-tokyo",
     "awayTeam": "ryukyu",
-    "homeScore": 1,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202603081300",
     "location": "守口市民体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202603081400",
