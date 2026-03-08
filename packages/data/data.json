@@ -1171,7 +1171,9 @@
     "start": "202603081100",
     "location": "厚木荻野公園体育館",
     "homeTeam": "km-tokyo",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202603081300",
