@@ -1180,22 +1180,24 @@
     "location": "守口市民体育館",
     "homeTeam": "np-mallets",
     "awayTeam": "red-elf",
-    "homeScore": 1,
-    "awayScore": 2
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202603081400",
     "location": "浦和駒場体育館",
     "homeTeam": "tt-saitama",
     "awayTeam": "okayama",
-    "homeScore": 2,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202603081600",
     "location": "厚木荻野公園体育館",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202603211200",
