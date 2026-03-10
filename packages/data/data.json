@@ -1202,25 +1202,25 @@
   {
     "start": "202603211200",
     "location": "東洋大学赤羽台キャンパス HELSPO HUB-3アリーナ",
-    "homeTeam": "undecided",
-    "awayTeam": "undecided"
+    "homeTeam": "ka-kanagawa",
+    "awayTeam": "np-mallets"
   },
   {
     "start": "202603211800",
     "location": "東洋大学赤羽台キャンパス HELSPO HUB-3アリーナ",
-    "homeTeam": "undecided",
-    "awayTeam": "undecided"
+    "homeTeam": "kanazawa",
+    "awayTeam": "tt-saitama"
   },
   {
     "start": "202603271900",
     "location": "代々木第二体育館",
-    "homeTeam": "undecided",
+    "homeTeam": "km-tokyo",
     "awayTeam": "undecided"
   },
   {
     "start": "202603281400",
     "location": "代々木第二体育館",
-    "homeTeam": "undecided",
+    "homeTeam": "red-elf",
     "awayTeam": "undecided"
   }
 ]
