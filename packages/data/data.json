@@ -1211,7 +1211,9 @@
     "start": "202603211800",
     "location": "東洋大学赤羽台キャンパス HELSPO HUB-3アリーナ",
     "homeTeam": "kanazawa",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202603271900",
