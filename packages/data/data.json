@@ -1219,7 +1219,9 @@
     "start": "202603271900",
     "location": "代々木第二体育館",
     "homeTeam": "km-tokyo",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "start": "202603281400",
