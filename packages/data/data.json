@@ -1227,6 +1227,8 @@
     "start": "202603281400",
     "location": "代々木第二体育館",
     "homeTeam": "red-elf",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 0,
+    "awayScore": 2
   }
 ]
