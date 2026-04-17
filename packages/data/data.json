@@ -1,7 +1,7 @@
 [
   {
     "start": "202507261400",
-    "location": "代々木第二体育館",
+    "location": "代々木第二体育館（渋谷区）",
     "homeTeam": "tt-saitama",
     "awayTeam": "ryukyu",
     "homeScore": 1,
@@ -9,7 +9,7 @@
   },
   {
     "start": "202507271400",
-    "location": "代々木第二体育館",
+    "location": "代々木第二体育館（渋谷区）",
     "homeTeam": "np-mallets",
     "awayTeam": "red-elf",
     "homeScore": 1,
@@ -97,7 +97,7 @@
   },
   {
     "start": "202508161300",
-    "location": "大阪市住吉スポーツセンター",
+    "location": "HOS住吉スポーツセンター",
     "homeTeam": "np-mallets",
     "awayTeam": "kyusyu",
     "homeScore": 3,
@@ -113,7 +113,7 @@
   },
   {
     "start": "202508171300",
-    "location": "大阪市住吉スポーツセンター",
+    "location": "HOS住吉スポーツセンター",
     "homeTeam": "np-mallets",
     "awayTeam": "kyoto",
     "homeScore": 3,
@@ -449,7 +449,7 @@
   },
   {
     "start": "202510181100",
-    "location": "代々木第二体育館",
+    "location": "代々木第二体育館（渋谷区）",
     "homeTeam": "km-tokyo",
     "awayTeam": "okayama",
     "homeScore": 2,
@@ -457,7 +457,7 @@
   },
   {
     "start": "202510181600",
-    "location": "代々木第二体育館",
+    "location": "代々木第二体育館（渋谷区）",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "kyusyu",
     "homeScore": 4,
@@ -473,7 +473,7 @@
   },
   {
     "start": "202510191100",
-    "location": "代々木第二体育館",
+    "location": "代々木第二体育館（渋谷区）",
     "homeTeam": "km-tokyo",
     "awayTeam": "shizuoka",
     "homeScore": 4,
@@ -481,7 +481,7 @@
   },
   {
     "start": "202510191600",
-    "location": "代々木第二体育館",
+    "location": "代々木第二体育館（渋谷区）",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "red-elf",
     "homeScore": 3,
@@ -1217,7 +1217,7 @@
   },
   {
     "start": "202603271900",
-    "location": "代々木第二体育館",
+    "location": "代々木第二体育館（渋谷区）",
     "homeTeam": "km-tokyo",
     "awayTeam": "kanazawa",
     "homeScore": 3,
@@ -1225,7 +1225,7 @@
   },
   {
     "start": "202603281400",
-    "location": "代々木第二体育館",
+    "location": "代々木第二体育館（渋谷区）",
     "homeTeam": "red-elf",
     "awayTeam": "ka-kanagawa",
     "homeScore": 2,
