@@ -19,13 +19,13 @@
   },
   {
     "start": "202608011400",
-    "location": "新福岡武道館",
+    "location": "福岡武道館",
     "homeTeam": "kyusyu",
     "awayTeam": "kyoto"
   },
   {
     "start": "202608021300",
-    "location": "新福岡武道館",
+    "location": "福岡武道館",
     "homeTeam": "kyusyu",
     "awayTeam": "ka-kanagawa"
   },
@@ -157,7 +157,7 @@
   },
   {
     "start": "202609051500",
-    "location": "新福岡武道館",
+    "location": "福岡武道館",
     "homeTeam": "kyusyu",
     "awayTeam": "ka-kanagawa"
   },
@@ -175,7 +175,7 @@
   },
   {
     "start": "202609061300",
-    "location": "新福岡武道館",
+    "location": "福岡武道館",
     "homeTeam": "kyusyu",
     "awayTeam": "red-elf"
   },
@@ -529,7 +529,7 @@
   },
   {
     "start": "202612181800",
-    "location": "新福岡武道館",
+    "location": "福岡武道館",
     "homeTeam": "red-elf",
     "awayTeam": "np-mallets"
   },
@@ -547,19 +547,19 @@
   },
   {
     "start": "202612191300",
-    "location": "新福岡武道館",
+    "location": "福岡武道館",
     "homeTeam": "red-elf",
     "awayTeam": "top-nagoya"
   },
   {
     "start": "202612191800",
-    "location": "新福岡武道館",
+    "location": "福岡武道館",
     "homeTeam": "kyusyu",
     "awayTeam": "kyoto"
   },
   {
     "start": "202612201200",
-    "location": "新福岡武道館",
+    "location": "福岡武道館",
     "homeTeam": "kyusyu",
     "awayTeam": "ka-kanagawa"
   },
@@ -769,7 +769,7 @@
   },
   {
     "start": "202702201400",
-    "location": "新福岡武道館",
+    "location": "福岡武道館",
     "homeTeam": "kyusyu",
     "awayTeam": "top-nagoya"
   },
@@ -799,7 +799,7 @@
   },
   {
     "start": "202702211300",
-    "location": "新福岡武道館",
+    "location": "福岡武道館",
     "homeTeam": "kyusyu",
     "awayTeam": "red-elf"
   },
