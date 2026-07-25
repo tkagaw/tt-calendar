@@ -11,7 +11,9 @@
     "start": "202607251900",
     "location": "新竹県立体育館（台湾）",
     "homeTeam": "km-tokyo",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "start": "202608011300",
