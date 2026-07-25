@@ -3,7 +3,9 @@
     "start": "202607251400",
     "location": "新竹県立体育館（台湾）",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202607251900",
