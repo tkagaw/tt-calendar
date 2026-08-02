@@ -35,13 +35,17 @@
     "start": "202608021300",
     "location": "福岡武道館",
     "homeTeam": "kyusyu",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202608021300",
     "location": "HOS住吉スポーツセンター",
     "homeTeam": "np-mallets",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202608101900",
