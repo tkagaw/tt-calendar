@@ -59,7 +59,9 @@
     "start": "202608111400",
     "location": "KBSホール（京都市）",
     "homeTeam": "kyoto",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "start": "202608151400",
