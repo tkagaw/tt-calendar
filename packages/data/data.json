@@ -67,7 +67,9 @@
     "start": "202608151400",
     "location": "三島市民体育館",
     "homeTeam": "shizuoka",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202608151600",
