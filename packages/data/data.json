@@ -68,20 +68,24 @@
     "location": "三島市民体育館",
     "homeTeam": "shizuoka",
     "awayTeam": "kanazawa",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 2
   },
   {
     "start": "202608151600",
     "location": "サンエー浦添西海岸パルコシティ",
     "homeTeam": "ryukyu",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "start": "202608151700",
     "location": "三好公園総合体育館",
     "homeTeam": "top-nagoya",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202608161300",
