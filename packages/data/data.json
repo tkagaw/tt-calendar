@@ -100,14 +100,16 @@
     "location": "三好公園総合体育館",
     "homeTeam": "top-nagoya",
     "awayTeam": "np-mallets",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
     "start": "202608161700",
     "location": "サンエー浦添西海岸パルコシティ",
     "homeTeam": "ryukyu",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202608221200",
