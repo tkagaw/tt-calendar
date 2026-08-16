@@ -91,13 +91,17 @@
     "start": "202608161300",
     "location": "三島市民体育館",
     "homeTeam": "shizuoka",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202608161400",
     "location": "三好公園総合体育館",
     "homeTeam": "top-nagoya",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202608161700",
