@@ -115,7 +115,9 @@
     "start": "202608221200",
     "location": "茅ケ崎総合体育館",
     "homeTeam": "km-tokyo",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202608221700",
