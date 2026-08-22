@@ -123,7 +123,9 @@
     "start": "202608221700",
     "location": "茅ケ崎総合体育館",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202608231100",
