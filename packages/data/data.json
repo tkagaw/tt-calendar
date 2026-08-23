@@ -139,7 +139,9 @@
     "start": "202608231600",
     "location": "茅ケ崎総合体育館",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202608261800",
