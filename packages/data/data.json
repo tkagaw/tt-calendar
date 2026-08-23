@@ -131,7 +131,9 @@
     "start": "202608231100",
     "location": "茅ケ崎総合体育館",
     "homeTeam": "km-tokyo",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202608231600",
