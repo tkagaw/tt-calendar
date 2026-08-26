@@ -147,7 +147,9 @@
     "start": "202608261800",
     "location": "池田市五月山体育館",
     "homeTeam": "red-elf",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202608271800",
