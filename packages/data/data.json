@@ -155,7 +155,9 @@
     "start": "202608271800",
     "location": "池田市五月山体育館",
     "homeTeam": "red-elf",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202608281800",
