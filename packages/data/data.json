@@ -163,7 +163,9 @@
     "start": "202608281800",
     "location": "金沢市総合体育館",
     "homeTeam": "kanazawa",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202608291300",
