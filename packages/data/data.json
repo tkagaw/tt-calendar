@@ -171,13 +171,17 @@
     "start": "202608291300",
     "location": "金沢市総合体育館",
     "homeTeam": "kanazawa",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202608291800",
     "location": "アミューズ豊田（磐田市）",
     "homeTeam": "shizuoka",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202608301300",
