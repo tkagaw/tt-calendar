@@ -189,13 +189,15 @@
     "homeTeam": "kanazawa",
     "awayTeam": "km-tokyo",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 3
   },
   {
     "start": "202608301400",
     "location": "アミューズ豊田（磐田市）",
     "homeTeam": "shizuoka",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202609051400",
