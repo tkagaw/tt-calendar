@@ -203,25 +203,33 @@
     "start": "202609051400",
     "location": "蓮田市総合市民体育館パルシー",
     "homeTeam": "tt-saitama",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202609051500",
     "location": "福岡武道館",
     "homeTeam": "kyusyu",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202609051600",
     "location": "サンエー浦添西海岸パルコシティ",
     "homeTeam": "ryukyu",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202609051700",
     "location": "北名古屋市健康ドーム",
     "homeTeam": "top-nagoya",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202609061300",
