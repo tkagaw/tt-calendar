@@ -267,7 +267,9 @@
     "start": "202609121400",
     "location": "アミノバリューホール（鳴門市）",
     "homeTeam": "kanazawa",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202609131400",
