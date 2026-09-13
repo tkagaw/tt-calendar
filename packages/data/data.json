@@ -275,7 +275,9 @@
     "start": "202609131400",
     "location": "アミノバリューホール（鳴門市）",
     "homeTeam": "red-elf",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202609191200",
