@@ -284,26 +284,32 @@
     "location": "カルッツかわさき",
     "homeTeam": "km-tokyo",
     "awayTeam": "shizuoka",
-    "homeScore": 0,
-    "awayScore": 2
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202609191300",
     "location": "岡山武道館",
     "homeTeam": "okayama",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 0,
+    "awayScore": 4
   },
   {
     "start": "202609191600",
     "location": "山科地域体育館（京都市）",
     "homeTeam": "kyoto",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202609191700",
     "location": "カルッツかわさき",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 0,
+    "awayScore": 4
   },
   {
     "start": "202609201100",
