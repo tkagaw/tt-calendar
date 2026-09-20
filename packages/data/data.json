@@ -315,13 +315,17 @@
     "start": "202609201100",
     "location": "カルッツかわさき",
     "homeTeam": "km-tokyo",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202609201300",
     "location": "岡山武道館",
     "homeTeam": "okayama",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202609201400",
