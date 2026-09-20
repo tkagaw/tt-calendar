@@ -317,27 +317,31 @@
     "homeTeam": "km-tokyo",
     "awayTeam": "kanazawa",
     "homeScore": 1,
-    "awayScore": 2
+    "awayScore": 3
   },
   {
     "start": "202609201300",
     "location": "岡山武道館",
     "homeTeam": "okayama",
     "awayTeam": "ryukyu",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202609201400",
     "location": "山科地域体育館（京都市）",
     "homeTeam": "kyoto",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202609201600",
     "location": "カルッツかわさき",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202610021800",
