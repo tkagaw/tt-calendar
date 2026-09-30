@@ -939,15 +939,15 @@
   },
   {
     "start": "202703061300",
-    "location": "福田公園体育館（倉敷市）",
-    "homeTeam": "okayama",
-    "awayTeam": "shizuoka"
-  },
-  {
-    "start": "202703061300",
     "location": "守口市民体育館",
     "homeTeam": "np-mallets",
     "awayTeam": "kyusyu"
+  },
+  {
+    "start": "202703061400",
+    "location": "福田公園体育館（倉敷市）",
+    "homeTeam": "okayama",
+    "awayTeam": "shizuoka"
   },
   {
     "start": "202703061400",
