@@ -347,7 +347,9 @@
     "start": "202610021800",
     "location": "和光市民文化センターサンアゼリア",
     "homeTeam": "tt-saitama",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202610031300",
