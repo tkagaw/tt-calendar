@@ -356,26 +356,32 @@
     "location": "アスリートタウン延岡アリーナ",
     "homeTeam": "ryukyu",
     "awayTeam": "kanazawa",
-    "homeScore": 0,
-    "awayScore": 1
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202610031400",
     "location": "和光市民文化センターサンアゼリア",
     "homeTeam": "tt-saitama",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202610031400",
     "location": "リクルートスタッフィング　リック＆スー旭川体育館",
     "homeTeam": "red-elf",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "start": "202610031800",
     "location": "アスリートタウン延岡アリーナ",
     "homeTeam": "kyusyu",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202610041100",
