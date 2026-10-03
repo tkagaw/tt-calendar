@@ -355,7 +355,9 @@
     "start": "202610031300",
     "location": "アスリートタウン延岡アリーナ",
     "homeTeam": "ryukyu",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202610031400",
