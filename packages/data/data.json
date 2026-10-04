@@ -404,14 +404,16 @@
     "location": "和光市民文化センターサンアゼリア",
     "homeTeam": "tt-saitama",
     "awayTeam": "km-tokyo",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202610041600",
     "location": "アスリートタウン延岡アリーナ",
     "homeTeam": "ryukyu",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202610091800",
