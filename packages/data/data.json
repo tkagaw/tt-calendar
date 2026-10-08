@@ -669,15 +669,15 @@
   },
   {
     "start": "202612201200",
-    "location": "敦賀市総合運動公園体育館",
-    "homeTeam": "kanazawa",
-    "awayTeam": "shizuoka"
-  },
-  {
-    "start": "202612201300",
     "location": "笠岡総合体育館",
     "homeTeam": "okayama",
     "awayTeam": "tt-saitama"
+  },
+  {
+    "start": "202612201200",
+    "location": "敦賀市総合運動公園体育館",
+    "homeTeam": "kanazawa",
+    "awayTeam": "shizuoka"
   },
   {
     "start": "202612231800",
