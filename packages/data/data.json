@@ -427,7 +427,9 @@
     "start": "202610101300",
     "location": "マービーふれあいセンター（倉敷市）",
     "homeTeam": "np-mallets",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202610171100",
