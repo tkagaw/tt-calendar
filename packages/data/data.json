@@ -435,13 +435,17 @@
     "start": "202610171100",
     "location": "七尾総合市民体育館",
     "homeTeam": "kanazawa",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202610171200",
     "location": "駒沢屋内球技場（世田谷区）",
     "homeTeam": "km-tokyo",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202610171300",
