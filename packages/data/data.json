@@ -436,7 +436,7 @@
     "location": "七尾総合市民体育館",
     "homeTeam": "kanazawa",
     "awayTeam": "okayama",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
@@ -444,26 +444,32 @@
     "location": "駒沢屋内球技場（世田谷区）",
     "homeTeam": "km-tokyo",
     "awayTeam": "ryukyu",
-    "homeScore": 1,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
     "start": "202610171300",
     "location": "沼津市総合体育館（香陵アリーナ）",
     "homeTeam": "shizuoka",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 0,
+    "awayScore": 4
   },
   {
     "start": "202610171700",
     "location": "駒沢屋内球技場（世田谷区）",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202610171700",
     "location": "感謝と挑戦のTYK体育館（多治見市）",
     "homeTeam": "top-nagoya",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "start": "202610181100",
