@@ -475,13 +475,17 @@
     "start": "202610181100",
     "location": "駒沢屋内球技場（世田谷区）",
     "homeTeam": "km-tokyo",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202610181300",
     "location": "沼津市総合体育館（香陵アリーナ）",
     "homeTeam": "shizuoka",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202610181300",
