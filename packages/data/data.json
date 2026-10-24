@@ -515,13 +515,17 @@
     "start": "202610241300",
     "location": "津山総合体育館",
     "homeTeam": "okayama",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202610241300",
     "location": "高松市総合体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202610251200",
