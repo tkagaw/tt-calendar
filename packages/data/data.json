@@ -531,7 +531,9 @@
     "start": "202610251200",
     "location": "高松市総合体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202610251300",
