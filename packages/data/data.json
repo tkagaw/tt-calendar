@@ -778,16 +778,16 @@
     "awayTeam": "red-elf"
   },
   {
-    "start": "202701301400",
-    "location": "KBSホール（京都市）",
-    "homeTeam": "kyoto",
-    "awayTeam": "top-nagoya"
-  },
-  {
     "start": "202701301500",
     "location": "イオンモール白山",
     "homeTeam": "kanazawa",
     "awayTeam": "tt-saitama"
+  },
+  {
+    "start": "202701301600",
+    "location": "KBSホール（京都市）",
+    "homeTeam": "kyoto",
+    "awayTeam": "top-nagoya"
   },
   {
     "start": "202701301600",
