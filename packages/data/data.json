@@ -547,25 +547,33 @@
     "start": "202611071500",
     "location": "KBSホール（京都市）",
     "homeTeam": "kyoto",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 0,
+    "awayScore": 4
   },
   {
     "start": "202611071600",
     "location": "新発田市カルチャーセンター",
     "homeTeam": "shizuoka",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202611071700",
     "location": "ツイン21アトリウム（大阪市）",
     "homeTeam": "ryukyu",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202611071700",
     "location": "名古屋市東スポーツセンター",
     "homeTeam": "top-nagoya",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202611081200",
